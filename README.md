@@ -37,7 +37,7 @@
     <a href="https://github.com/drobb2020/01-countdown-timer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/drobb2020/01-countdown-timer">View Demo</a>
+    <a href="https://courageous-bunny-ec7ffb.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/drobb2020/01-countdown-timer/issues">Report Bug</a>
     ·
@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://courageous-bunny-ec7ffb.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@davidrobb2](https://twitter.com/davidrobb2) - drobb2011@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/drobb2020/01-countdown-timer)
+Project Link: [Retirement Countdown Timer](https://courageous-bunny-ec7ffb.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
