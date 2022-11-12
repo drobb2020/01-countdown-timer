@@ -32,7 +32,7 @@ setInterval(countdown, 1000)
 
 let i = 0
 let images = []
-let time = 72000
+let time = 900000
 
 images[0] = 'url(../assets/bg-01.jpg)'
 images[1] = 'url(../assets/bg-02.jpg)'
