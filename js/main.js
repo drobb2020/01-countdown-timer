@@ -32,7 +32,7 @@ setInterval(countdown, 1000)
 
 let i = 0
 let images = []
-// let time = 300000
+// let time = 2000
 let time = 60000
 
 images[0] = 'url(../assets/bg-01.jpg)'
@@ -42,6 +42,7 @@ images[3] = 'url(../assets/bg-04.jpg)'
 images[4] = 'url(../assets/bg-05.jpg)'
 images[5] = 'url(../assets/bg-06.jpg)'
 images[6] = 'url(../assets/bg-07.jpg)'
+images[7] = 'url(../assets/bg-08.jpg)'
 
 function changeImage() {
     const el = document.getElementById('body')
