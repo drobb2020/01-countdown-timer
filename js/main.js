@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours')
 const minutesEl = document.getElementById('minutes')
 const secondsEl = document.getElementById('seconds')
 
-const retirement = '1 Apr 2025'
+const retirement = '10 Apr 2026'
 
 function countdown() {
     const retirementDate = new Date(retirement)
@@ -32,12 +32,16 @@ setInterval(countdown, 1000)
 
 let i = 0
 let images = []
-let time = 900000
+// let time = 300000
+let time = 60000
 
 images[0] = 'url(../assets/bg-01.jpg)'
 images[1] = 'url(../assets/bg-02.jpg)'
 images[2] = 'url(../assets/bg-03.jpg)'
 images[3] = 'url(../assets/bg-04.jpg)'
+images[4] = 'url(../assets/bg-05.jpg)'
+images[5] = 'url(../assets/bg-06.jpg)'
+images[6] = 'url(../assets/bg-07.jpg)'
 
 function changeImage() {
     const el = document.getElementById('body')
